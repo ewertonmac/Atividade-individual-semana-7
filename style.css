@@ -16,7 +16,8 @@ header{
 
 footer{
     font-size: 1.5em;
-    transform: translateY(60vh)
+    position: absolute;
+    bottom: 10px;
 }
 
 form{
